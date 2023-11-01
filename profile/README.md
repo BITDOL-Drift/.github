@@ -1,4 +1,8 @@
 ## Hi there 👋, This is Team Drift.
+### Contributers:
+- 조현영
+- 박건하
+- 최지오
 
 <!--
 
